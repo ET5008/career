@@ -6,6 +6,10 @@ This repo is a master resume. Each file in `projects/` and `experiences/` is
 canonical source material. When given a job description, generate a
 tailored one-page resume in `outputs/`.
 
+New entries: copy `_template-project.md` into `projects/` or
+`_template-experience.md` into `experiences/` and fill it in — do not use
+the other type's template.
+
 ## 2. SELECTION LOGIC
 
 - Extract required skills and keywords from the JD

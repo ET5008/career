@@ -2,6 +2,10 @@
 name: Math Tutoring
 dates:
 status:            # active | shipped | archived
+org:               # organization / company name
+role:              # your title
+location:          # city, remote, etc.
+employment_type:   # internship | part-time | full-time | contract
 skills: []         # technologies and methods, lowercase
 metrics: []        # ONLY verified numbers with baselines, e.g. "83% acc vs 61% majority baseline"
 angles: []         # e.g. ml-engineering, ml-research, full-stack, ai-product

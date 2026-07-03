@@ -1,5 +1,5 @@
 ---
-name: OrionW Internship
+name:
 dates:
 status:            # active | shipped | archived
 org:               # organization / company name
