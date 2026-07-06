@@ -35,3 +35,8 @@ the other type's template.
 
 Save to `outputs/resume-<role-slug>.md` with a header comment listing: JD
 source, date generated, entries used, TODOs.
+
+Each variant section carries a ```latex``` block with a ready-to-paste
+snippet for that entry. When assembling the output, prefer copying the
+LaTeX block for the selected variant over hand-writing new LaTeX — edit it
+only to trim/reorder `\resumeItem`s to match the bullets actually chosen.

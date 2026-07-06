@@ -14,7 +14,19 @@ verified: false    # flip to true only after checking metrics against real recor
 ## Variant: <angle-1>
 <!-- 2-4 bullets. Action verb + mechanism + quantified outcome. -->
 
+```latex
+% Ready to paste into the resume .tex for this variant.
+\resumeProjectHeading
+  {\textbf{Name} $|$ \emph{tech stack}}{Dates}
+  \resumeItemListStart
+    \resumeItem{}
+  \resumeItemListEnd
+```
+
 ## Variant: <angle-2>
+
+```latex
+```
 
 ## Raw notes
 <!-- Problem / approach / result. Failures, debugging stories, design

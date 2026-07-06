@@ -1,20 +1,32 @@
 ---
-name: Client Acquisition Platform
-dates:
-status:            # active | shipped | archived
-type:              # solo | team | hackathon | coursework
-role:              # your specific contribution if type is team/hackathon
+name: Client Relationship and Acquisition Platform
+dates: 7/1/26 - present
+status: In progress           # active | shipped | archived
+type: solo              # solo | team | hackathon | coursework
+role: Creator              # your specific contribution if type is team/hackathon
 repo:              # url to code repo or live demo
-skills: []         # technologies and methods, lowercase
+skills: [react, tailwind, python,]         # technologies and methods, lowercase
 metrics: []        # ONLY verified numbers with baselines, e.g. "83% acc vs 61% majority baseline"
-angles: []         # e.g. ml-engineering, ml-research, full-stack, ai-product
+angles: [full-stack, ai-product]         # e.g. ml-engineering, ml-research, full-stack, ai-product
 verified: false    # flip to true only after checking metrics against real records
 ---
 
 ## Variant: <angle-1>
 <!-- 2-4 bullets. Action verb + mechanism + quantified outcome. -->
 
+```latex
+% Ready to paste into the resume .tex for this variant.
+\resumeProjectHeading
+  {\textbf{Name} $|$ \emph{tech stack}}{Dates}
+  \resumeItemListStart
+    \resumeItem{}
+  \resumeItemListEnd
+```
+
 ## Variant: <angle-2>
+
+```latex
+```
 
 ## Raw notes
 <!-- Problem / approach / result. Failures, debugging stories, design

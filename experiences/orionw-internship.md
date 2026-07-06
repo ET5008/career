@@ -15,7 +15,20 @@ verified: false    # flip to true only after checking metrics against real recor
 ## Variant: <angle-1>
 <!-- 2-4 bullets. Action verb + mechanism + quantified outcome. -->
 
+```latex
+% Ready to paste into the resume .tex for this variant.
+\resumeSubheading
+  {Org}{Location}
+  {Role}{Dates}
+  \resumeItemListStart
+    \resumeItem{}
+  \resumeItemListEnd
+```
+
 ## Variant: <angle-2>
+
+```latex
+```
 
 ## Raw notes
 <!-- Failures, debugging stories, design decisions, war stories.
